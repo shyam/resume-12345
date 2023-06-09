@@ -1,0 +1,97 @@
+﻿PROFILE SUMMARY
+* Around 5 years of experience in Technical Leadership and around 17 years of experience in Enterprise Software, Infrastructure, Site Reliability and Information Security.
+* Strategized and executed multiple Digital transformation projects to enable organizations to become more agile in their Software Delivery capabilities in both B2B and B2C scale. 
+* Key Strengths: Ownership, Hire & Develop the Best and Delivering Outcomes.
+* Specialization: Technology Strategy Formulation, Strategy-to-Execution, Project & Portfolio Management, Stakeholder Management, Budget Management & Cost Control, Negotiation & Influencing and Cross-functional Leadership.
+
+
+EDUCATION & COURSES
+* Strategy and Financial performance by INSEAD Executive Education
+* Transformational Leadership Program - Rethink Leadership by Axel Springer 
+* B.E. Computer Science & Engineering. Anna University, India. (2002 – 2006).
+Honors: First Class (2006) and Distinguished Alumni (2017).
+
+
+WORK EXPERIENCE & KEY ACHIEVEMENTS
+upday GmbH (Axel Springer SE Group) as “Chief Technology Officer” from December 2021 till present, “Head of Site Reliability Engineering” from April 2021 till November 2021 and “Principal DevOps Engineer” from March 2019 till January 2021. (Berlin, Germany).
+
+
+Responsibilities as “Chief Technology Officer”
+* Lead a cross-functional team of 42+ engineers, 7 engineering managers, 4 product owners and 1 product director and with complementary skill sets across Backend, Frontend, Mobile, Data, Infrastructure and Quality Assurance disciplines and deliver the upday product roadmap and technology initiatives. 
+* Provided strategic, organizational, and technical leadership across all products.
+* Align all Engineering disciplines with the product roadmap aligned with the OKRs. Define Roles, Responsibilities and Key Result Areas (KRAs) for all the objectives.
+* Budgeting and controlling of Engineering-related expenses in close collaboration with the Finance team.
+
+
+Key Achievements:
+* Envisioned and drove the “Platform transformation” activities. This improved productivity by 100%, enabled us to build newer product segments and enable us to seamlessly handle current B2C “Content Platform” product for millions of users (>30M) in General News and Esports News.
+* Launch the platform in newer markets like the USA and Canada. This increased our revenues by 33%.
+* Enabled us to open a new segment: B2B. Onboarded 2 B2B customers that added newer revenue streams that accounted to 5% of our revenues.
+* Re-Launched the Website with a modular headless CMS to cater to 8+ markets and added 20 MM users. This increased revenues by 10%.
+* Reviewed, Replaced and Renegotiated the contracts with various (tech) vendors. The outcome of negotiation either reduced cost by at least 10% or added capability at the same cost.
+
+
+Responsibilities as “Head of Site Reliability Engineering” and “Principal DevOps Engineer”
+* Established the Site Reliability practice and team; transformed the core platform capabilities based on modern cloud native infrastructure standards. This enabled upday to scale existing and newer products to millions of users at very competitive costs. 
+* Drove the implementation of modern security standards across the stack. Completed Audits with corporate IT Security and the penetration testing with vendors.
+* Streamlined the Developer Experience (DX) by implementing a shared services platform based on Kubernetes and AWS Managed Services.
+* Managed a web scale infrastructure with a lean team of 3 members.  Handled one appraisal cycle for the team.
+
+smava GmbH as “Senior DevOps Engineer” from June 2018 till February 2019. (Berlin, Germany).
+* Established the Cloud Migration practice and migrated a smaller platform to be cloud native.
+* Align all Engineering teams with the roadmap pertaining to the DevOps practice.
+
+
+Jifflenow Technologies Pvt. Ltd. as “Engineering Manager – Infrastructure and Security” from April 2017 till May 2018 and “Architect” from September 2013 till March 2017. (Bengaluru, India/Roseville, CA, USA).
+* One of the early employees of a Venture Capital funded B2B Startup based out of Silicon Valley. Funded by Accel Partners, Saama Capital and Sequoia Capital.
+* Autonomous Decision-Making for tactical decisions in close collaboration with CTO and CEO.
+* Worked closely with C Level for Tech. Strategy, Sales and Legal. Closely interacted with the VC tech team for reviews.
+* Established the DevOps practice as the company started to experience 10x growth YOY. Defined technical architecture along with CTO for Backend Team to handle high growth.
+* Define Roles, Responsibilities and Key Result Areas (KRAs) for the Infrastructure team.
+* Managed 1000s of customers with a lean infrastructure team of 5 members. Handled two appraisal cycles for the team.
+
+Payoda Technologies Pvt. Ltd. as “Application Architect – Delivery Stream” from May 2013 to August 2013 and “Technical Lead – Enterprise Cloud Practice” from June 2012 to April 2013. (Coimbatore, India).
+
+
+   * Established the DevOps practice as an offering for Payoda’s Consulting Engagements.
+   * Experience in Government and Fintech verticals.
+
+
+ThoughtWorks Software Pvt. Ltd. as “Senior Consultant” from July 2008 to June 2012. (Chennai, India).
+
+
+   * Part of the founding team of DevOps practice as an offering for Consulting Engagements. Handled Software Development, Architecture and Production Engineering roles.
+   * Experience in Retail, Travel & Hospitality, High-Tech, Media and Publishing verticals.
+
+
+SpikeSource Inc as “Software Engineer” from July 2007 to July 2008 (Chennai, India).
+
+
+   * Handled Software Development, Architecture and Production Engineering roles.
+
+
+Fourteen as “Technical Architect” from June 2006 to July 2007. (Coimbatore, India).
+
+
+   * Consultant for Fourteen’s IT Consulting Engagements.
+   * Experience in Retail and Travel & Hospitality verticals.
+
+
+PUBLICATIONS & TALKS
+   * Blog: https://medium.com/@shyamsundar
+   * Axel Springer Techcon 2022, Berlin, Germany (June 2022) – The evolution of Infrastructure as Code
+   * Axel Springer Techcon 2021, Berlin, Germany (May 2021) – Shared Services Platform at upday. (http://tiny.cc/ch3luz) 
+   * Axel Springer Techcon 2019, Berlin, Germany (November 2019) – Are you really ready to go live? (http://tiny.cc/8g3luz) 
+   * GeekNight 11th Edition, Coimbatore, India (August 2017) – A gentle introduction to scaling web apps. using OpenResty. (http://tiny.cc/64b9iz)
+   * PyCon India 2010 – Deployment to Large Server Farms using Fabric and BitTorrent.
+
+
+CERTIFICATIONS
+   * CNCF – Certified Kubernetes Administrator (Certification ID: CKA-2000-005470-0100).
+   * Amazon Certified Solutions Architect – Associate (Validation Number: DSXDW4SCCN1E1MG1). (2017, 2021).
+
+
+OTHER INFO.
+   * Languages (CEFR Levels): English: C2, German: A1.   
+   * Visa: German Permanent Residence Permit (Niederlassungserlaubnis).
+   * LinkedIn: https://www.linkedin.com/in/shyam-sundar-c-s-321a7a/
